@@ -1,0 +1,15 @@
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/CMakeFiles/uninstall.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/CMakeFiles/edit_cache.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/CMakeFiles/rebuild_cache.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/CMakeFiles/list_install_components.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/CMakeFiles/install.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/CMakeFiles/install/local.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/CMakeFiles/install/strip.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/src/CMakeFiles/update_mappings.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/src/CMakeFiles/glfw.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/src/CMakeFiles/edit_cache.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/src/CMakeFiles/rebuild_cache.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/src/CMakeFiles/list_install_components.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/src/CMakeFiles/install.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/src/CMakeFiles/install/local.dir
+/home/mustafa/mii-labs/target/debug/build/glfw-sys-eeb4b8080bb58d09/out/build/src/CMakeFiles/install/strip.dir
